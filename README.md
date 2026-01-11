@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kuntal3991
-- 👀 I’m interested in ML, AI and Data Science
-- 🌱 I’m currently working as a Data Scientist with Heineken
+- 🌱 I’m currently working as a Senior Data Scientist with Heineken
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 Ping me on LinkedIn @ linkedin.com/in/kuntalnit 
 - ⚡ Fun fact: I don't blame the data for mishaps 😉
